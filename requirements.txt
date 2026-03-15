@@ -3,5 +3,5 @@ pandas
 plotly
 scikit_learn
 scipy
-streamlit
+streamlit>=1.40
 yfinance
